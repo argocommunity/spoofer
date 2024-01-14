@@ -26,4 +26,4 @@
 
 # Note: This is a paid program because it is not a virus. All free programs contain rats and keyloggers! Do not forget it.
 .
-.
+
